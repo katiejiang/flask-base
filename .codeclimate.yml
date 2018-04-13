@@ -23,7 +23,7 @@ ratings:
   - "**.js"
   - "**.py"
 exclude_paths:
-- app/static/*
+- static/*
 checks:
   argument-count:
     config:
